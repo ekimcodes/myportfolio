@@ -1,7 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: 'export',
+  basePath: '/myportfolio', // Required for GitHub Pages project site
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;
