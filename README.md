@@ -11,8 +11,8 @@ This is a personal portfolio website built with **Next.js** and **Tailwind CSS**
 - **Deployment:** Vercel (Recommended)
 
 ## Project Structure
-- `src/data/`:
-- `src/components/`:
-- `src/app/`:
+- `src/data/`
+- `src/components/`
+- `src/app/`
 
 ---
