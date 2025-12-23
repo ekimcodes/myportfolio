@@ -104,7 +104,7 @@ Real-time geospatial dashboard processing 10M+ daily data points.`,
         },
         {
             name: "Athena",
-            description: `Athena is an AI-powered Utility Vegetation Management.
+            description: `AI-powered Utility Vegetation Management.
             Platform designed to autonomously identify, assess, and mitigate 
             wildfire risks caused by vegetation encroachment on power lines.`,
             language: "Python",
