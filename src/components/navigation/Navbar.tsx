@@ -50,7 +50,7 @@ export function Navbar() {
                             </div>
                         </Link>
                         <Link
-                            href="https://drive.google.com/file/d/1RxIM2O-Axhs0FGN37lmH_kOJiSO5CVo5/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1bLxFIS9QqVpdd9Fkj_M2PX3DiyQUMZQf/view?usp=sharing"
                             target="_blank"
                             rel="noreferrer"
                         >
