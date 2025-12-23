@@ -103,16 +103,16 @@ Real-time geospatial dashboard processing 10M+ daily data points.`,
             githubUrl: "https://github.com/ekimcodes/:",
         },
         {
-            name: "CALI",
-            description: `Real-time Stress-Tracking Platform.
-Custom BiLSTM neural network processing 5 heterogeneous streams.
-Converges 40% faster than baseline.`,
+            name: "Athena",
+            description: `Athena is an AI-powered Utility Vegetation Management.
+            Platform designed to autonomously identify, assess, and mitigate 
+            wildfire risks caused by vegetation encroachment on power lines.`,
             language: "Python",
             languageColor: "#f1e05a",
             stars: 8,
             forks: 2,
-            tags: ["BiLSTM", "Signal Processing", "Real-time"],
-            githubUrl: "https://github.com/ekimcodes/CALI",
+            tags: ["Segementation Models", "TTPLA", "Satellite Data"],
+            githubUrl: "https://github.com/ekimcodes/Athena",
         },
     ],
 
