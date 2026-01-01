@@ -96,23 +96,44 @@ export const portfolioData = {
 94% precision in forecasting grid failures 48 hours in advance.
 Real-time geospatial dashboard processing 10M+ daily data points.`,
             language: "Python",
-            languageColor: "#f1e05a", // GitHub language color
-            stars: 12,
-            forks: 4,
+            languageColor: "#2b7489", // GitHub language color
+            stars: 0,
+            forks: 0,
             tags: ["Random Forest", "Geospatial", "Python"],
-            githubUrl: "https://github.com/ekimcodes/:",
+            githubUrl: "https://github.com/ekimcodes/Hermes:",
         },
         {
-            name: "Athena",
-            description: `AI-powered Utility Vegetation Management.
-            Platform designed to autonomously identify, assess, and mitigate 
-            wildfire risks caused by vegetation encroachment on power lines.`,
+            name: "CALI",
+            description: `Real-time Stress-Tracking Platform.
+Custom BiLSTM neural network processing 5 heterogeneous streams.
+Converges 40% faster than baseline.`,
             language: "Python",
+            languageColor: "#2b7489",
+            stars: 0,
+            forks: 0,
+            tags: ["BiLSTM", "Signal Processing", "Real-time"],
+            githubUrl: "https://github.com/ekimcodes/CALI",
+        },
+
+        {
+            name: "The Cat Knows",
+            description: "A minimalist browser game where your mouse cursor becomes the prey. You play as a small mouse, pursued by an AI Cat that evolves its strategy the longer you survive.",
+            language: "Javascript",
             languageColor: "#f1e05a",
-            stars: 8,
-            forks: 2,
-            tags: ["Segementation Models", "TTPLA", "Satellite Data"],
-            githubUrl: "https://github.com/ekimcodes/Athena",
+            stars: 0,
+            forks: 0,
+            tags: ["React", "Tailwind", "Vite"],
+            githubUrl: "https://github.com/ekimcodes/The-Cat-Knows",
+        },
+        {
+            name: "N/A",
+            description: "",
+            language: "",
+            languageColor: "#f1e05a",
+            stars: 0,
+            forks: 0,
+            tags: [""],
+            githubUrl: "",
         },
     ],
 

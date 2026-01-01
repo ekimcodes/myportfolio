@@ -9,7 +9,7 @@ export function ProjectShowcase() {
     return (
         <section id="projects" className="container max-w-screen-2xl py-8">
             <div className="mx-auto flex max-w-[980px] flex-col gap-4">
-                <h2 className="text-2xl font-semibold tracking-tight">Pinned</h2>
+                <h2 className="text-2xl font-semibold tracking-tight">Projects</h2>
 
                 <div className="grid gap-4 md:grid-cols-2">
 
