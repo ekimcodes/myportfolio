@@ -100,19 +100,19 @@ Real-time geospatial dashboard processing 10M+ daily data points.`,
             stars: 0,
             forks: 0,
             tags: ["Random Forest", "Geospatial", "Python"],
-            githubUrl: "https://github.com/ekimcodes/Hermes:",
+            githubUrl: "https://github.com/ekimcodes/Hermes",
         },
         {
-            name: "CALI",
-            description: `Real-time Stress-Tracking Platform.
-Custom BiLSTM neural network processing 5 heterogeneous streams.
-Converges 40% faster than baseline.`,
+            name: "Athena",
+            description: `AI-powered Utility Vegetation Management platform.
+Visualizes 1,000+ utility assets in real-time.
+84% mIoU in detecting vegetation encroachment on power lines`,
             language: "Python",
             languageColor: "#2b7489",
             stars: 0,
             forks: 0,
             tags: ["BiLSTM", "Signal Processing", "Real-time"],
-            githubUrl: "https://github.com/ekimcodes/CALI",
+            githubUrl: "https://github.com/ekimcodes/Athena",
         },
 
         {
